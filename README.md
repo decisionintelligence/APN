@@ -70,11 +70,11 @@ Once the file is in place, our code will handle the final formatting (generating
 
 ### 3. Train and evaluate model
 
-- To see the model structure of APN, [click here](./models/apn_model.py).
+- To see the model structure of APN, [click here](./models/APN.py).
 - We provide all the experiment scripts for APN and other baselines under the folder `./scripts`. For example you can reproduce the experiment results on the USHCN dataset as the following script:
 
 ```shell
-sh ./scripts/USHCN_script/APN.sh
+sh ./scripts/APN/P12.sh
 ```
 
 ## Results

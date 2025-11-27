@@ -1,0 +1,10 @@
+tqdm
+ptflops 
+accelerate 
+coloredlogs 
+einops
+scikit-learn
+wandb
+torchvision
+pandas
+pyarrow

@@ -100,18 +100,6 @@ Results of parameter sensitivity analysis on the number of patches ($P$), hidden
 <img alt="Sensitivity" src="figs/sensitivity.png" width="90%"/>
 </div>
 
-## FAQ
-
-1. How to use Pycharm to run code?
-
-When running under pycharm，please escape the double quotes, remove the spaces, and remove the single quotes at the beginning and end.
-
-Such as: **'{"batch_size": 32, "d_model": 128}' ---> {\\"batch_size\\":32,\\"d_model\\":128}**
-
-```shell
---config-path "config.json" --data-name "USHCN" --model-name "apn.APN" --model-hyper-params {\"batch_size\":32,\"d_model\":128,\"lr\":0.001,\"num_epochs\":200,\"patience\":10,\"patch_num\":20} --gpus 0
-```
-
 ## Citation
 
 If you find this repo useful, please cite our paper.

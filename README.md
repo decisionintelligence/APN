@@ -29,7 +29,7 @@ The comparisons between Fixed Patching and our Adaptive Patching: (a) Fixed Patc
 
 ### 1. Requirements
 
-Given a python environment (**note**: this project is fully tested under python 3.8 and PyTorch 2.6.0+cu124), install the dependencies with the following command:
+Given a python environment (**note**: this project is fully tested under python 3.11.13 and PyTorch 2.6.0+cu124), install the dependencies with the following command:
 
 ```shell
 pip install -r requirements.txt

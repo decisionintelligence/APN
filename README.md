@@ -25,7 +25,7 @@ The comparisons between Fixed Patching and our Adaptive Patching: (a) Fixed Patc
 ## Quickstart
 
 > [!IMPORTANT]
-> This project is fully tested under Python 3.8. It is recommended that you set the Python version to 3.8.
+> This project is fully tested under Python 3.11.13. It is recommended that you set the Python version to 3.11.13.
 
 ### 1. Requirements
 

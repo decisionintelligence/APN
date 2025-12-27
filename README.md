@@ -55,7 +55,7 @@ For **HumanActivity**, **PhysioNet ('12)**, and **USHCN**, you generally do not 
 #### 2.2 MIMIC Dataset
 Due to privacy regulations, the **MIMIC** dataset requires credentialed access. Please follow the steps below to prepare it manually:
 
-1.  **Request Access**: Obtain the raw data from [PhysioNet MIMIC](https://physionet.org/content/mimiciii/1.4/). You do not need to extract the `.csv.gz` files.
+1.  **Request Access**: Obtain the raw data from [MIMIC](https://physionet.org/content/mimiciii/1.4/). You do not need to extract the `.csv.gz` files.
 2.  **Preprocessing**: We adopt the standard preprocessing pipeline from **gru_ode_bayes**.
     - Clone the [gru_ode_bayes](https://github.com/edebrouwer/gru_ode_bayes/tree/master/data_preproc/MIMIC) repository.
     - Follow their instructions to generate the `complete_tensor.csv` file.

@@ -49,7 +49,7 @@ for te_dim in "${te_dims[@]}"; do
         --train_epochs \"$train_epochs\" \
         --patience \"$patience\" \
         --val_interval 1 \
-        --itr 1 \
+        --itr 5 \
         --batch_size \"$bs\" \
         --learning_rate \"$lr\" \
         --d_model \"$dm\" \

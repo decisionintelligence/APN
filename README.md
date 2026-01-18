@@ -1,7 +1,3 @@
-# We appreciate the following GitHub repos a lot for their valuable code and efforts.
-
-# Pyomnits (https://github.com/Ladbaby/PyOmniTS)
-
 # APN: Rethinking Irregular Time Series Forecasting
 
 [![AAAI](https://img.shields.io/badge/AAAI'26-APN-red)](https://arxiv.org/abs/2505.11250)  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-blue)](https://pytorch.org/)  ![Stars](https://img.shields.io/github/stars/decisionintelligence/APN)
@@ -120,6 +116,10 @@ If you find this repo useful, please cite our paper.
 ## Acknowledgement
 
 This work was partially supported by the National Natural Science Foundation of China (No.62472174) and the Fundamental Research Funds for the Central Universities.
+
+**We appreciate the following GitHub repos a lot for their valuable code and efforts.**
+
+Pyomnits (https://github.com/Ladbaby/PyOmniTS)
 
 ## Contact
 

@@ -74,7 +74,8 @@ Once the file is in place, our code will handle the final formatting (generating
 - We provide all the experiment scripts for APN and other baselines under the folder `./scripts`. For example you can reproduce the experiment results on the USHCN dataset as the following script:
 
 ```shell
-sh ./scripts/APN/P12.sh
+chmod +x ./scripts/APN/P12.sh
+./scripts/APN/P12.sh
 ```
 
 ## Results

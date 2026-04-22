@@ -101,6 +101,11 @@ Results of parameter sensitivity analysis on the number of patches ($P$), hidden
 <img alt="Sensitivity" src="figs/sensitivity.png" width="90%"/>
 </div>
 
+## 💡 Notes
+
+> [!NOTE]
+> **Regarding the Optimizer:** Although the paper states the use of AdamW, the experiments were actually conducted using **Adam** (as implemented in this repo). We recommend using the default settings in the provided scripts for reproduction.
+
 ## Citation
 
 If you find this repo useful, please cite our paper.
